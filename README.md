@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Deepak17101995
-- 👀 I’m interested in ... JAVA Development
-- 🌱 I’m currently learning ... HTML and CSS
+- 👀 I’m interested in ... ReactJs
+- 🌱 I’m currently learning ... jest
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...9096458689
 
