@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Deepak17101995
 - 👀 I’m interested in ... ReactJs
-- 🌱 I’m currently learning ... jest
+- 🌱 I’m currently learning ... PWA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...9096458689
 
